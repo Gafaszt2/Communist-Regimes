@@ -1,0 +1,16 @@
+[
+        {
+		"name": "Red Army",
+                "uniqueTo": "USSR",
+		"replaces": "Infantry",
+                "upgradesTo": "Special Forces",
+                "obsoleteTech": "SALT Agreements",
+                "requiredTech": "Plastics",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 50,
+		"cost": 110,
+                "promotions": ["Comrade"],
+		"attackSound": "shot"
+        },
+]

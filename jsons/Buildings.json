@@ -1,0 +1,11 @@
+[
+        {
+		"name": "Kolkhoz",
+                "uniqueTo": "USSR",
+                "replaces": "Stock market",
+		"food": 2,
+                "production": 1,
+		"hurryCostModifier": 0,
+		"requiredTech": "Economics"
+	},
+]
